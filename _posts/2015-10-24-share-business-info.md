@@ -5,6 +5,8 @@ date:   2015-10-24 09:00:00
 author: Jeremy Privett
 categories: business management development
 cta: general-newsletter
+description: >
+  Something that I see happen a lot inside businesses, particularly as they start to grow, is this idea that information about the business and how it operates can only be given out on a "Need to Know" basis ...
 ---
 Something that I see happen a lot inside businesses, particularly as they start to grow, is this idea that information about the business and how it operates can only be given out on a "Need to Know" basis. As the management structure for the company starts to expand and additional layers of middle management are introduced, less and less business information makes it down the chain to the people who are doing the actual day-to-day programming.
 
