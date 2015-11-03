@@ -12,4 +12,25 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <script type="text/javascript">
+        var site_posts = [];
+        var draft_posts = [];
+        {% for post in site.posts %}
+        site_posts.push({
+            "title": "{{ post.title }}",
+            "url": "{{ post.url }}",
+            "date": "{{ post.date }}"
+        });
+        {% endfor %}
+        
+        var today = new Date();
+        
+        for ( i = 0; i < site_posts.length; i++ ) {
+            if ( today < (new Date(site_posts[i].date)) ) {
+                var draft = site_posts.splice(i, 1);
+                draft_posts.push(draft[0]);
+                i--;
+            }
+        }
+    </script>
 </head>
