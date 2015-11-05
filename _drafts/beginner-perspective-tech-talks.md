@@ -40,11 +40,13 @@ I consider a talk between 15 - 30-ish minutes to be a "short talk". These genera
 
 #### Long Talks
 
-I consider "long talks" as anything at or beyond 40 minutes. My money talk clocked in at about an hour and I still had material left over. I'll be cutting and editing it down to two separate 40 minute talks.
+I consider "long talks" as anything at or beyond 40 minutes. These are usually very detailed or in-depth looks at a subject. Frequently, they include demos or examples and are the most likely to illicit questions from the audience from how much of the subject matter is usually covered. These are usually the length of one-talk-per-meetup group or conference talks.
+
+My money talk clocked in at about an hour and I still had material left over. I'll be cutting and editing it down to two separate 30 - 40 minute talks.
 
 ### Don't talks usually have some kind of slides or presentation?
 
-Yeah, and I've seen sort of two approaches in slide style and layout. I don't necessarily prefer one of the other, so I'll try to describe both of them here as best as I can.
+Yeah, and I've seen sort of two approaches in slide style and layout. I don't necessarily prefer one over the other, so I'll try to describe both of them here as best as I can.
 
 #### Information in Slides
 
