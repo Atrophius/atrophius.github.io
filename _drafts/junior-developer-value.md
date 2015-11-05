@@ -9,8 +9,8 @@ cta: 7-steps-productdev-course
 
 Summary:
 
-Junior Developers are good for companies because they help strengthen the organizational and development processes to account for the inherent weaknesses from their inexperience. Junior Developers force companies to:
+Junior Developers are good for companies because they help strengthen organizational and development processes to account for the inherent weaknesses from developer inexperience. Junior Developers force companies to:
 
-- Build and maintain good documentation so newer developers can acclimate
-- Build and maintain good software development processes that allow Jr Devs to thrive
+- Build and maintain good documentation so newer developers can acclimate more easily
+- Build and maintain good software development processes that allow all Devs, Juniors included, to thrive and be productive
 - Put in place a culture and value of mentoring and training to help Developers advance their careers
