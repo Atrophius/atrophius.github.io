@@ -5,6 +5,8 @@ date:   2015-11-05 16:00:00
 author: Jeremy Privett
 categories: professional-development public-speaking development tech
 cta: general-newsletter
+description: >
+  Doing these kinds of talks, and doing them well, is a fantastic way to catapult yourself into a position of authority on a subject because you're demonstrating your knowledge and ability to communicate that knowledge to your peers. I wanted to take some time to talk about my experience. If you're interested or on the fence about speaking, I hope this insight will guide you.
 ---
 A month ago, I did a talk at the PHP User Group I organize called "Let's Talk About Money for Developers". It was the most ambitious talk I've ever given to what turned out to be the largest group of people I've spoken in front of, to date. I've done a lot of webinars for the purposes of marketing and sales for my consulting businesses in the past, but I haven't done a ton of in-person speaking to audiences larger than about 5 people.
 
