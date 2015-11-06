@@ -16,11 +16,11 @@ Getting heavily involved in the local tech community over the last couple of yea
 
 A primary goal of people who do these talks is to help people understand a subject that the speaker really cares about. In my experience, the preparation that's required to teach someone else how to do or use something further cements my own knowledge of the subject matter. Teaching can be just as much about your own learning as it is everyone else's.
 
-I can say with absolute certainty that if you practice and become effective at communicating ideas within your community, you will be quickly be seen as an expert on the topics you speak on. This can do wonderful things for your career trajectory, because you're proving very publicly that you know your stuff and can also teach others.
+I can say with absolute certainty that if you practice and become effective at communicating ideas within your community, you will quickly be seen as an expert on the topics you speak on. This can do wonderful things for your career trajectory, because you're proving very publicly that you know your stuff and can also teach others.
 
 ### Okay, you're convincing me. What should I talk about?
 
-Put simply: Any technology you can be animated about. Are you really excited about new functionality in the latest version of [_insert your favorite framework here_]? Teach other people how to use that functionality. Explain to them what common use cases for the functionality are and the best ways to take advantage of it.
+Put simply: Any technology you can be animated about. Are you really excited about new functionality in the latest version of [_insert your favorite framework here_]? Teach other people how to use that functionality. Explain to them what common use cases for the functionality are and the best ways to take advantage of them.
 
 The audience will feed off of your passion. They will also be able to tell if you're forcing things and don't care about what you're talking about. You'll get out of your audience what you put into them, so being energetic in your explanation will command more attention, particularly if you're not as well-known.
 
@@ -52,7 +52,7 @@ Yeah, and I've seen sort of two approaches in slide style and layout. I don't ne
 
 #### Information in Slides
 
-The Information in Slides approach is one where the presenter will try and put relevant information inside of the slides for whatever he's speaking about at any given moment. This tends to make your slides useful  as an overview of the topic you were speaking on, even after the talk has passed.
+The Information in Slides approach is one where the presenter will try and put relevant information inside of the slides for whatever he's speaking about at any given moment. This tends to make your slides useful as an overview of the topic you were speaking on, even after the talk has passed.
 
 Some tips: Try to keep slides from being too wordy. Express clear, concise thoughts. Ideally, a single, short sentence. If you use bullet points, take advantage of fade-in animations to put them on the screen as you talk about them. This keeps people from reading ahead and not listening to what you're saying.
 
@@ -110,6 +110,6 @@ Continue the conversation in some way. Direct people to your social media presen
 
 ### Okay, I'm gonna give this a shot.
 
-Great. I hope you've learned at least a little about doing tech talks from this. I'm a pretty huge introvert by nature, so if I can somehow do this and people enjoy it, I'm sure others can as well. Practice is a huge part of it and - like most things - the more you do it, the better you'll get at it.
+Great. I hope you've learned at least a little about doing tech talks from this. I'm a pretty huge introvert by nature, so if I can somehow do this and people enjoy it, I'm sure others can as well. Practice is a huge part of it and &mdash; like most things &mdash; the more you do it, the better you'll get at it.
 
 If you do decide to do some speaking, I'd be curious to see what you talk about. You're welcome to e-mail me details about what you're speaking on and your slides and I'll give you some feedback. And if you're interested in more content like this, fill out the form below to get on my newsletter.
