@@ -16,7 +16,7 @@ Getting heavily involved in the local tech community over the last couple of yea
 
 A primary goal of people that do these talks is teaching and helping people understand a subject that the speaker really cares about. In my experience, the preparation that's required to teach someone else how to do or use something further cements my own knowledge of the subject matter. Teaching can be just as much about your own learning as it is everyone else's.
 
-I can say with absolute certainty that if you practice and become effective at communicating ideas within your community, you will be quickly be seen as an expert on the topics you speak on. This can do wonderful things for your career trajectory, because you're proving very publicly that you know your stuff and can also teach others.
+I can say with absolute certainty that if you practice and become effective at communicating ideas within your community, you will quickly be seen as an expert on the topics you speak on. This can do wonderful things for your career trajectory, because you're proving very publicly that you know your stuff and can also teach others.
 
 ### Okay, you're convincing me. What should I talk about?
 
