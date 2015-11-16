@@ -13,7 +13,11 @@ layout: default
   </article>
   
   <footer class="post-footer">
+      {% if page.cta %}
       {% include cta/{{ page.cta }}.html %}
+      {% else %}
+      {% include cta/{{ site.cta }}.html %}
+      {% endif %}
       <p><a href="/">Return to Home</a></p>
   </footer>
 

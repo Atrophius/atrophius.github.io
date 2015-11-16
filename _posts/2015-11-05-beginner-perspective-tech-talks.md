@@ -4,7 +4,6 @@ title:  "A Beginner's Perspective on Tech Talks"
 date:   2015-11-05 16:00:00
 author: Jeremy Privett
 categories: professional-development public-speaking development tech
-cta: general-newsletter
 description: >
   Doing these kinds of talks, and doing them well, is a fantastic way to catapult yourself into a position of authority on a subject because you're demonstrating your knowledge and ability to communicate that knowledge to your peers. I wanted to take some time to talk about my experience. If you're interested or on the fence about speaking, I hope this insight will guide you.
 ---

@@ -4,7 +4,6 @@ title:  "Stop Making Business Info 'Need to Know'"
 date:   2015-10-24 09:00:00
 author: Jeremy Privett
 categories: business management development
-cta: general-newsletter
 description: >
   Something that I see happen a lot inside businesses, particularly as they start to grow, is this idea that information about the business and how it operates can only be given out on a "Need to Know" basis ...
 ---
