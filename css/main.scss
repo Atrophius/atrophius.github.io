@@ -8,6 +8,19 @@ body {
 	max-width: 35em;
 }
 
+table, td {
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 0.5em;
+}
+
+thead {
+	background-color: gray;
+	color: white;
+}
+
 .note {
 	font-style: italic;
 }
