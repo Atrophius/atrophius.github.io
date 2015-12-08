@@ -25,7 +25,7 @@ title: Recruiting Services and Pricing Table
 | BR + JAR + Culture Evaluation (CE) x 3 days | $4,000 upfront, $22,100 each | $48,200 |
 | BR + JAR + CE x 3 days + Team Interviews (TI) x 3 days | $7,000 upfront, $18,700 each | $44,400 |
 | BR + JAR + CE x 3 days + TI x 3 days + SDLC Review x 1 wk | $10,000 upfront, $13,600 each | $37,200 |
-| Dedicated Recruiting | $9000 upfront, $10,200 each | $29,400 |
+| Dedicated Recruiting | $9000 upfront, $10,200 each | **$29,400** |
 
 ### Four Developers @ $85k/yr
 
@@ -36,4 +36,4 @@ title: Recruiting Services and Pricing Table
 | BR + JAR + Culture Evaluation (CE) x 3 days | $4,000 upfront, $22,100 each | $92,400 |
 | BR + JAR + CE x 3 days + Team Interviews (TI) x 3 days | $7,000 upfront, $18,700 each | $81,800 |
 | BR + JAR + CE x 3 days + TI x 3 days + SDLC Review x 1 wk | $10,000 upfront, $13,600 each | $64,400 |
-| Dedicated Recruiting | $9000 upfront, $10,200 each | $49,800 |
+| Dedicated Recruiting | $9000 upfront, $10,200 each | **$49,800** |
