@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Joomla 0-day Patching and Auditing
+description: >
+  A major Joomla security vulnerability was just fixed. You need patch immediately. I can help.
 ---
 
 An update was just released for [Joomla](https://www.joomla.org) to fix a critical security vulnerability that will allow attackers to remotely execute code on your server. This is the worst kind of vulnerability and savvy attackers very likely already have tools to scan to find vulnerable sites.
