@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Joomla 0-day Patching and Auditing
+twittercard: true
 description: >
   A major Joomla security vulnerability was just fixed. You need patch immediately. I can help.
 ---
