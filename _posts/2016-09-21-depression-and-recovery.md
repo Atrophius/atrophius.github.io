@@ -4,6 +4,7 @@ title:  "A Story About Depression and Recovery"
 date:   2016-09-21 11:00:00
 author: Jeremy Privett
 categories: depression anxiety
+twittercard: true
 description: >
   I kind of just looked up one day and realized how bad I was. I was literally barely functional as a human being.
 ---
