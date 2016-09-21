@@ -7,7 +7,7 @@ categories: depression anxiety
 description: >
   I kind of just looked up one day and realized how bad I was. I was literally barely functional as a human being.
 ---
-This is going to be a long post. I appreciate you if you read the whole thing. Some of you already know what I'm about to say, because I haven't exactly been a quiet person about my mental health, but I suffer from pretty severe depression and anxiety. At the end of August, I hit the lowest point I've ever been at. A period I'm referring to as my "rock bottom" because it's the point in which I finally made a decision about seeking real, clinical help for my problems.
+This is going to be a long post. I appreciate you if you read the whole thing. Some of you already know what I'm about to say, because I haven't exactly been a quiet person about my mental health, but I suffer from pretty severe depression and anxiety. At the end of August (it's September 21, 2016 at the time of writing), I hit the lowest point I've ever been at. A period I'm referring to as my "rock bottom" because it's the point in which I finally made a decision about seeking real, clinical help for my problems.
 
 I kind of just looked up one day and realized how bad I was. I was literally barely functional as a human being. It was having a huge negative impact on my work, my interactions with my wife and son, as well as my friends. I was making a lot of brash and impulsive decisions. Getting angry really easily. And generally just being very unproductive with my time. I had developed some really detrimental habits that were exacerbating things, as well.
 
